@@ -1,2 +1,2 @@
 # Puzzle challenges solutions
-A place to hold code for resume purposes.
+This respository has code that solves random puzzles I found online.
